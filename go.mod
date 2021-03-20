@@ -1,3 +1,3 @@
-module lizongshen.com/goport
+module github.com/lizongshen/goport
 
 go 1.16
